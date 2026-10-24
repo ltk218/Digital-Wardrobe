@@ -1,0 +1,6 @@
+@echo off
+echo Installing Nocturne Wardrobe packages...
+call npm install
+echo Starting Nocturne Wardrobe in your browser...
+call npm run dev
+pause
